@@ -28,7 +28,7 @@ This is an AltSchool CSS Assignment. The task focuses on mastering  layout desig
 
 ## Live Demo
 
-Check out the live demo [here]().
+Check out the live demo [here](https://janenovuswatch.netlify.app/).
 
 ## Contirbuting
 
